@@ -1,0 +1,214 @@
+{
+    "basics": {
+        "name": "Jaakko Ojalehto",
+        "label": "Programmer",
+        "picture": "",
+        "email": "jaakko@ojalehto.fi",
+        "phone": "+358 456 321 117",
+        "summary": "",
+        "location": {
+            "countryCode": "FI"
+        },
+        "profiles": [{
+            "network": "Twitter",
+            "username": "zeikko",
+            "url": "https://twitter.com/zeikko"
+        }, {
+            "network": "LinkedIn",
+            "url": "https://fi.linkedin.com/in/jaakkoojalehto/"
+        }]
+    },
+    "work": [{
+        "company": "Finnish Broadcasting Company (Yle)",
+        "position": "Web Developer",
+        "website": "http://yle.fi",
+        "startDate": "2013-08-01",
+        "highlights": [
+            "Developed multiple inhouse web and social media analytics tools and dashboards.",
+            "Developed the user interface and architecture of the search engine of yle.fi"
+        ]
+    }, {
+        "company": "Ferratum Group",
+        "position": "Web Developer",
+        "website": "https://www.ferratumgroup.com/",
+        "startDate": "2013-05-01",
+        "endDate": "2013-06-30",
+        "highlights": [
+            "Developed an automatic loan handling software used in multiple countries"
+        ]
+    }, {
+        "company": "NetBooster Finland",
+        "position": "Research and Development Manager",
+        "website": "http://netbooster.fi",
+        "startDate": "2012-12-20",
+        "endDate": "2013-05-31",
+        "highlights": [
+            "Developed multiple social media based marketing applications"
+        ]
+    }, {
+        "company": "NetBooster",
+        "position": "Research and Development Engineer",
+        "website": "http://netbooster.com",
+        "startDate": "2011-05-01",
+        "endDate": "2012-12-20",
+        "highlights": [
+            "I designed, built and deployed an online reputation monitoring tool that was sold worldwide by the NetBooster group. The tool gathers, stores, analyses and visualizes articles found from all types of websites. The tool stores PDF and image files as well as text of the found article. Multiple type of analysis such as sentiment, website category, website popularity language and topic analysis are performed for the found articles and discussions. The tool also includes a social media monitoring module that tracks metrics and activities of selected Facebook pages and Twitter & Weibo accounts. The tool also includes a real time bidding display advertisement dashboard where the metrics of a campaign can be monitored in real time."
+        ]
+    }, {
+        "company": "NetBooster Finland",
+        "position": "Software Developer & SEO Consultant",
+        "website": "http://netbooster.fi",
+        "startDate": "2009-11-01",
+        "endDate": "2011-05-01",
+        "highlights": [
+            "Developed inhouse SEO & SEM tools and a production management platform.",
+            "Performed technical, semantic, keyword and visibility analysis on client websites using variety self made, commercial and free tools. I made conclusions, reports and suggestions based on the analysis. I also consulted the clients how to fix various technical problems in CMS and eCommerce products."
+        ]
+    }],
+    "volunteer": [{
+        "position": "Web Developer",
+        "website": "http://ns2stats.com/",
+        "startDate": "2012-06-01",
+        "endDate": "2013-01-01",
+        "summary": "NS2Stats offers wide variety of statistics for players of PC game Natural Selection 2. NS2Stats includes ELO ranking, build orders, and various other player, mod, map, server and round statistics.",
+        "highlights": [
+            "Designed and developed the web application that analyzes, persists and visualizes the game data."
+        ]
+    }],
+    "education": [{
+        "institution": "Metropolia University of Applied Sciences",
+        "area": "Information Technology",
+        "studyType": "Bachelor",
+        "startDate": "2008-08-01",
+        "endDate": "2012-05-31"
+    }, {
+        "institution": "Mount Royal University",
+        "area": "Exchange Studies",
+        "startDate": "2010-08-01",
+        "endDate": "2010-12-20",
+        "courses": [
+            "Project Management",
+            "Quality Assurance",
+            "Human Resource Management",
+            "Web Development with ASP.NET",
+            "Application Development with ASP.NET"
+        ]
+    }],
+    "awards": [],
+    "publications": [{
+        "name": "Building Online Reputation Management Tool",
+        "releaseDate": "2012-05-01",
+        "website": "http://www.theseus.fi/bitstream/handle/10024/42285/Ojalehto%20Jaakko.pdf?sequence=1",
+        "summary": "Graduation study which documents the problems faced, decision taken and solutions found upon creating an online reputation management tool called Prism for an Internet marketing agency NetBooster."
+    }],
+    "skills": [{
+        "name": "HTML, XHTML, CSS",
+        "level": "12 years"
+    }, {
+        "name": "JavaScript",
+        "level": "6 years"
+    }, {
+        "name": "jQuery",
+        "level": "6 years"
+    }, {
+        "name": "PHP",
+        "level": "6 years"
+    }, {
+        "name": "Wordpress",
+        "level": "6 years"
+    }, {
+        "name": "Yii Framework",
+        "level": "3 years"
+    }, {
+        "name": "SQL Databases",
+        "level": "6 years",
+        "keywords": [
+            "MySQL",
+            "MSSQL",
+            "PostgreSQL"
+        ]
+    }, {
+        "name": "Linux & Apache Server Administration",
+        "level": "6 years"
+    }, {
+        "name": "JavaScript",
+        "level": "6 years"
+    }, {
+        "name": "Java",
+        "level": "1 year"
+    }, {
+        "name": ".NET Web Development",
+        "level": "1 year"
+    }, {
+        "name": "Angular.js",
+        "level": "1 year"
+    }, {
+        "name": "Node.js",
+        "level": "1 year"
+    }, {
+        "name": "MongoDB",
+        "level": "1 year"
+    }, {
+        "name": "Version Control Management Systems",
+        "level": "4 years",
+        "keywords": [
+            "Git",
+            "SVN"
+        ]
+    }, {
+        "name": "Technical Search Engine Optimization",
+        "level": "3 years"
+    }, {
+        "name": "Continuous Integration",
+        "level": "2 years",
+        "keywords": [
+            "Bamboo",
+            "Jenkins",
+            "Travis CI"
+        ]
+    }, {
+        "name": "Test Driven Development",
+        "level": "1 year"
+    }, {
+        "name": "Responsive Web Design",
+        "level": "2 years"
+    }, {
+        "name": "Web Analytics",
+        "level": "5 years",
+        "keywords": [
+            "Google Analytics",
+            "ComScore Digital Analytix"
+        ]
+    }],
+    "languages": [{
+        "language": "Finnish",
+        "fluency": "Native proficiency"
+    }, {
+        "language": "English",
+        "fluency": "Full professional proficiency"
+    }, {
+        "language": "Swedish",
+        "fluency": "Limited working proficiency"
+    }, {
+        "language": "French",
+        "fluency": "Elementary proficiency"
+    }],
+    "interests": [{
+        "name": "Web Application Development"
+    }, {
+        "name": "Biking"
+    }, {
+        "name": "Mountain Biking"
+    }, {
+        "name": "Climbing"
+    }, {
+        "name": "Competitive Computer Gaming"
+    }, {
+        "name": "Board Games"
+    }, {
+        "name": "Game Development"
+    }, {
+        "name": "Game Modding"
+    }],
+    "references": []
+}
