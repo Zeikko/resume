@@ -2,7 +2,7 @@
     "basics": {
         "name": "Jaakko Ojalehto",
         "label": "Programmer",
-        "picture": "",
+        "picture": "https://avatars3.githubusercontent.com/u/444862?v=2&s=460",
         "email": "jaakko@ojalehto.fi",
         "phone": "+358 456 321 117",
         "summary": "I am a full stack developer specialized in web analytics tools, social media dashboard, search engines, gaming statistics and other interactive web applications. I develop the back end mostly with Node.js and MongoDB or PHP and MySQL to rapidly develop scalable and reliable applications. On the front end i mostly rely in Angular.js and jQuery to create rich, fast and easy to use user interfaces. ",
