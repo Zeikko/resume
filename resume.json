@@ -5,7 +5,7 @@
         "picture": "",
         "email": "jaakko@ojalehto.fi",
         "phone": "+358 456 321 117",
-        "summary": "",
+        "summary": "I am a full stack developer specialized in web analytics tools, social media dashboard, search engines, gaming statistics and other interactive web applications. I develop the back end mostly with Node.js and MongoDB or PHP and MySQL to rapidly develop scalable and reliable applications. On the front end i mostly rely in Angular.js and jQuery to create rich, fast and easy to use user interfaces. ",
         "location": {
             "countryCode": "FI"
         },
@@ -28,7 +28,8 @@
         "startDate": "2013-08-01",
         "highlights": [
             "Developed multiple inhouse web and social media analytics tools and dashboards.",
-            "Developed the user interface and architecture of the search engine of yle.fi"
+            "Developed the user interface and architecture of the search engine of yle.fi.",
+            "Worked as a esports specialist, community manager, chat moderator among other tasks in Assembly and Dreamhack broadcasts."
         ]
     }, {
         "company": "Ferratum Group",
@@ -37,7 +38,7 @@
         "startDate": "2013-05-01",
         "endDate": "2013-06-30",
         "highlights": [
-            "Developed an automatic loan handling software used in multiple countries"
+            "Developed an automatic loan handling software used in multiple countries."
         ]
     }, {
         "company": "NetBooster Finland",
@@ -46,7 +47,7 @@
         "startDate": "2012-12-20",
         "endDate": "2013-05-31",
         "highlights": [
-            "Developed multiple social media based marketing applications"
+            "Developed multiple social media based marketing applications."
         ]
     }, {
         "company": "NetBooster",
@@ -55,7 +56,7 @@
         "startDate": "2011-05-01",
         "endDate": "2012-12-20",
         "highlights": [
-            "I designed, built and deployed an online reputation monitoring tool that was sold worldwide by the NetBooster group. The tool gathers, stores, analyses and visualizes articles found from all types of websites. The tool stores PDF and image files as well as text of the found article. Multiple type of analysis such as sentiment, website category, website popularity language and topic analysis are performed for the found articles and discussions. The tool also includes a social media monitoring module that tracks metrics and activities of selected Facebook pages and Twitter & Weibo accounts. The tool also includes a real time bidding display advertisement dashboard where the metrics of a campaign can be monitored in real time."
+            "Designed, built and deployed an online reputation monitoring tool that was sold worldwide by the NetBooster group. The tool gathers, stores, analyses and visualizes articles found from all types of websites. The tool stores PDF and image files as well as text of the found article. Multiple type of analysis such as sentiment, website category, website popularity language and topic analysis are performed for the found articles and discussions. The tool also includes a social media monitoring module that tracks metrics and activities of selected Facebook pages and Twitter & Weibo accounts. The tool also includes a real time bidding display advertisement dashboard where the metrics of a campaign can be monitored in real time."
         ]
     }, {
         "company": "NetBooster Finland",
@@ -69,13 +70,26 @@
         ]
     }],
     "volunteer": [{
-        "position": "Web Developer",
+        "position": "Co-Founder, Web Developer",
+        "organization": "NS2Stats"
         "website": "http://ns2stats.com/",
         "startDate": "2012-06-01",
         "endDate": "2013-01-01",
         "summary": "NS2Stats offers wide variety of statistics for players of PC game Natural Selection 2. NS2Stats includes ELO ranking, build orders, and various other player, mod, map, server and round statistics.",
         "highlights": [
-            "Designed and developed the web application that analyzes, persists and visualizes the game data."
+            "Designed and developed the web application that analyzes, persists and visualizes the game data received from a network of game servers."
+        ]
+    }, {
+        "position": "Co-Founder, Co-Captain, Player",
+        "organization": "Archaea",
+        "website": "http://www.teamarchaea.com/",
+        "startDate": "2011-08-01",
+        "endDate": "2013-01-01",
+        "summary": "Co-Founded and Co-Captained the most victorious Natural Selection 2 team of 2012 and 2013",
+        "highlights": [
+            "Organized day to day activities such as training and practice matches.",
+            "Participated in taking care of team politics such as recruiting.",
+            "Won the ESL NS2 Launch Tournament with LAN finals played in the ESL Studio in Cologne, Germany."
         ]
     }],
     "education": [{
