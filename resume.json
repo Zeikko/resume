@@ -1,11 +1,11 @@
 {
     "basics": {
         "name": "Jaakko Ojalehto",
-        "label": "Programmer",
+        "label": "Web Developer",
         "picture": "https://lh5.googleusercontent.com/dlgpqi6bNY64vIhRGfhIJYXIPbzll7gsZnVyROhtRhcJ8rP_ZsMGIOMZKw8zCv68dIvxFCRsSew=w1896-h859",
         "email": "jaakko@ojalehto.fi",
         "phone": "+358 456 321 117",
-        "summary": "I am a full stack developer specialized in web analytics tools, social media dashboard, search engines, gaming statistics and other interactive web applications. I develop the back end mostly with Node.js and MongoDB or PHP and MySQL to rapidly develop scalable and reliable applications. On the front end i mostly rely in Angular.js and jQuery to create rich, fast and easy to use user interfaces. ",
+        "summary": "I am a full stack developer specialized in web analytics tools, social media dashboard, search engines, gaming statistics and other interactive web applications. I develop the back end mostly with Node.js and MongoDB to rapidly develop scalable and reliable applications. On the front end i mostly rely in Angular.js and jQuery to create rich, fast and easy to use user interfaces. ",
         "location": {
             "countryCode": "FI"
         },
@@ -28,8 +28,9 @@
         "startDate": "2013-08-01",
         "highlights": [
             "Developed multiple inhouse web and social media analytics tools and dashboards.",
+            "Developed web analytics measurement SDKs and APIs",
             "Developed the user interface and architecture of the search engine of yle.fi.",
-            "Worked as an esports specialist, community manager, chat moderator among other tasks in Assembly and Dreamhack broadcasts."
+            "Worked as an esports specialist, community manager, chat moderator among other tasks in multiple e-sports broadcasts."
         ]
     }, {
         "company": "Ferratum Group",
@@ -47,7 +48,7 @@
         "startDate": "2012-12-20",
         "endDate": "2013-05-31",
         "highlights": [
-            "Developed multiple social media based marketing applications."
+            "Developed social media based marketing applications."
         ]
     }, {
         "company": "NetBooster",
@@ -56,7 +57,7 @@
         "startDate": "2011-05-01",
         "endDate": "2012-12-20",
         "highlights": [
-            "Designed, built and deployed an online reputation monitoring tool that was sold worldwide by the NetBooster group. The tool gathers, stores, analyses and visualizes articles found from all types of websites. The tool stores PDF and image files as well as text of the found article. Multiple type of analysis such as sentiment, website category, website popularity language and topic analysis are performed for the found articles and discussions. The tool also includes a social media monitoring module that tracks metrics and activities of selected Facebook pages and Twitter & Weibo accounts. The tool also includes a real time bidding display advertisement dashboard where the metrics of a campaign can be monitored in real time."
+            "Designed, built and maintained an online reputation monitoring tool that was sold worldwide by the NetBooster group. The tool gathers, stores, analyses and visualizes articles found from all types of websites. The tool stores PDF and image files as well as text of the found article. Multiple type of analysis such as sentiment, website category, website popularity language and topic analysis are performed for the found articles and discussions. The tool also includes a social media monitoring module that tracks metrics and activities of selected Facebook pages and Twitter & Weibo accounts. The tool also includes a real time bidding display advertisement dashboard where the metrics of a campaign can be monitored in real time."
         ]
     }, {
         "company": "NetBooster Finland",
@@ -125,13 +126,7 @@
         "name": "JavaScript",
         "level": "6 years"
     }, {
-        "name": "jQuery",
-        "level": "6 years"
-    }, {
         "name": "PHP",
-        "level": "6 years"
-    }, {
-        "name": "Wordpress",
         "level": "6 years"
     }, {
         "name": "Yii Framework",
@@ -145,11 +140,20 @@
             "PostgreSQL"
         ]
     }, {
-        "name": "Linux & Apache Server Administration",
+        "name": "Linux Server Administration",
         "level": "6 years"
+    },  {
+        "name": "Angular.js",
+        "level": "2 year"
     }, {
-        "name": "JavaScript",
-        "level": "6 years"
+        "name": "Node.js",
+        "level": "2 year"
+    }, {
+        "name": "NoSQL Databases",
+        "level": "2 year",
+        "keywords": [
+            "MongoDB"
+        ]
     }, {
         "name": "Java",
         "level": "1 year"
@@ -157,17 +161,8 @@
         "name": ".NET Web Development",
         "level": "1 year"
     }, {
-        "name": "Angular.js",
-        "level": "1 year"
-    }, {
-        "name": "Node.js",
-        "level": "1 year"
-    }, {
-        "name": "MongoDB",
-        "level": "1 year"
-    }, {
         "name": "Version Control Management Systems",
-        "level": "4 years",
+        "level": "5 years",
         "keywords": [
             "Git",
             "SVN"
@@ -185,16 +180,18 @@
         ]
     }, {
         "name": "Test Driven Development",
-        "level": "1 year"
+        "level": "2 year"
     }, {
         "name": "Responsive Web Design",
-        "level": "2 years"
+        "level": "3 years"
     }, {
         "name": "Web Analytics",
         "level": "5 years",
         "keywords": [
             "Google Analytics",
-            "ComScore Digital Analytix"
+            "ComScore Digital Analytix",
+            "TNSMetrix",
+            "Chartbeat"
         ]
     }],
     "languages": [{
@@ -223,9 +220,9 @@
     }, {
         "name": "Board Games"
     }, {
-        "name": "Game Development"
+        "name": "Board Game Development"
     }, {
-        "name": "Game Modding"
+        "name": "Video Game Modding"
     }],
     "references": []
 }
