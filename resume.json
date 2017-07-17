@@ -5,7 +5,7 @@
         "picture": "https://lh5.googleusercontent.com/dlgpqi6bNY64vIhRGfhIJYXIPbzll7gsZnVyROhtRhcJ8rP_ZsMGIOMZKw8zCv68dIvxFCRsSew=w1896-h859",
         "email": "jaakko@ojalehto.fi",
         "phone": "+358 456 321 117",
-        "summary": "I am a JavaScript full stack developer specialized in web and social media analytics, search engines, gaming statistics and data visualization dashboards. On the back end i mostly use Node.js, MongoDB and PostgreSQL to rapidly develop scalable and reliable applications while on the front end i often use React.js and Angular.js to create rich, fast and easy to use user interfaces.",
+        "summary": "I am a JavaScript full stack developer. On the back end i mostly use Node.js and PostgreSQL to rapidly develop scalable and reliable applications while on the front end i often use React.js to create rich, fast and easy to use user interfaces.",
         "location": {
             "countryCode": "FI"
         },
@@ -27,10 +27,10 @@
         "website": "http://yle.fi",
         "startDate": "2013-08-01",
         "highlights": [
-            "Developed multiple inhouse web and social media analytics tools and dashboards.",
+            "Developed the yle.fi frontpage and the inhouse editing tool that the editors use to edit the page.",
+            "Developed an inhouse web analytics dashboard used by the journalists, editors and the top management.",
             "Developed web analytics measurement SDKs, APIs and tracking implementations which are used to record around 100 million events each week",
-            "Developed the architecture, user interface, API and a backend component of the search engine of yle.fi which is visited over 200 000 times each week",
-            "Worked as an esports specialist, community manager, chat moderator among other tasks in multiple e-sports broadcasts."
+            "Developed the architecture, user interface, API and a backend component of the search engine of yle.fi which is visited over 200 000 times each week"
         ]
     }, {
         "company": "Ferratum Group",
@@ -98,7 +98,10 @@
         "area": "Information Technology",
         "studyType": "Bachelor",
         "startDate": "2008-08-01",
-        "endDate": "2012-05-31"
+        "endDate": "2012-05-31",
+        "courses": [
+            "Specialized in Application Development"
+        ]
     }, {
         "institution": "Mount Royal University",
         "area": "Exchange Studies",
@@ -120,23 +123,25 @@
         "summary": "Graduation study which documents the problems faced, decision taken and solutions found upon creating an online reputation management tool called Prism for an Internet marketing agency NetBooster."
     }],
     "skills": [{
-        "name": "HTML, XHTML, CSS",
-        "level": "12 years"
+        "name": "HTML & CSS",
+        "level": "13 years"
     }, {
         "name": "JavaScript",
-        "level": "6 years",
+        "level": "7 years",
         "keywords": [
-            "ECMAScript 6"
+            "ECMAScript 2015",
+            "ECMAScript 2016",
+            "ECMAScript 2017"
         ]
+    }, {
+        "name": "React.js",
+        "level": "2 years"
     }, {
         "name": "Angular.js",
         "level": "2 years"
     }, {
-        "name": "React.js",
-        "level": "Less than a year"
-    }, {
         "name": "Node.js",
-        "level": "3 years"
+        "level": "4 years"
     }, {
         "name": "NoSQL Databases",
         "level": "2 years",
@@ -147,26 +152,34 @@
         "name": "SQL Databases",
         "level": "6 years",
         "keywords": [
+            "PostgreSQL",
+            "Redshift",
             "MySQL",
-            "MSSQL",
-            "PostgreSQL"
+            "MSSQL"
         ]
     }, {
         "name": "Cloud Based Web Development",
-        "level": "1 year",
+        "level": "3 years",
         "keywords": [
             "Amazon Web Services",
             "AWS Elastic Beanstalk",
             "AWS Kinesis",
             "AWS Lambda",
-            "AWS Redshift"
+            "AWS Redshift",
+            "AWS EC2",
+            "AWS IAM",
+            "AWS S3",
+            "AWS Lambda",
+            "AWS RDS",
+            "AWS Coudfront",
+            "EC2 Container Service"
         ]
     }, {
         "name": "Linux Server Administration",
         "level": "6 years"
     }, {
         "name": "Continuous Integration",
-        "level": "2 years",
+        "level": "4 years",
         "keywords": [
             "Bamboo",
             "Jenkins",
@@ -174,25 +187,31 @@
         ]
     }, {
         "name": "Test Driven Development",
-        "level": "2 year"
+        "level": "4 year",
+        "keywords": [
+            "Mocha",
+            "Karma",
+            "Jest"
+        ]
     }, {
         "name": "Responsive Web Design",
-        "level": "3 years"
+        "level": "5 years"
     }, {
         "name": "Version Control Management Systems",
-        "level": "5 years",
+        "level": "7 years",
         "keywords": [
             "Git",
             "SVN"
         ]
     }, {
         "name": "Web Analytics",
-        "level": "5 years",
+        "level": "7 years",
         "keywords": [
             "Google Analytics",
             "ComScore Digital Analytix",
             "TNSMetrix",
-            "Chartbeat"
+            "Chartbeat",
+            "Adobe Analytics"
         ]
     }, {
         "name": "PHP",
