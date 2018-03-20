@@ -1,11 +1,11 @@
 {
     "basics": {
         "name": "Jaakko Ojalehto",
-        "label": "Web Developer",
+        "label": "Full Stack JavaScript Developer",
         "picture": "https://lh5.googleusercontent.com/dlgpqi6bNY64vIhRGfhIJYXIPbzll7gsZnVyROhtRhcJ8rP_ZsMGIOMZKw8zCv68dIvxFCRsSew=w1896-h859",
         "email": "jaakko@ojalehto.fi",
         "phone": "+358 456 321 117",
-        "summary": "I am a JavaScript full stack developer. On the back end i mostly use Node.js and PostgreSQL to rapidly develop scalable and reliable applications while on the front end i often use React.js to create rich, fast and easy to use user interfaces.",
+        "summary": "I am a full stack JavaScript developer. I have over ten years of experience in HTML, CSS and other web technologies. For the past 4 years i have developed multiple web applications using Node.js, AngularJS, React, React Native, MongoDB, PostgreSQL using AWS.",
         "location": {
             "countryCode": "FI"
         },
@@ -27,7 +27,7 @@
         "website": "http://yle.fi",
         "startDate": "2013-08-01",
         "highlights": [
-            "Developed the yle.fi frontpage and the inhouse editing tool that the editors use to edit the page.",
+            "Developed the yle.fi frontpage, mobile application and the inhouse layout management tool that the editors use to edit the page.",
             "Developed an inhouse web analytics dashboard used by the journalists, editors and the top management.",
             "Developed web analytics measurement SDKs, APIs and tracking implementations which are used to record around 100 million events each week",
             "Developed the architecture, user interface, API and a backend component of the search engine of yle.fi which is visited over 200 000 times each week"
@@ -131,11 +131,14 @@
         "keywords": [
             "ECMAScript 2015",
             "ECMAScript 2016",
-            "ECMAScript 2017"
+            "ECMAScript 2017",
+            "Babel",
+            "Webpack",
+            "Parcel"
         ]
     }, {
         "name": "React.js",
-        "level": "2 years"
+        "level": "3 years"
     }, {
         "name": "Angular.js",
         "level": "2 years"
@@ -159,8 +162,10 @@
         ]
     }, {
         "name": "Cloud Based Web Development",
-        "level": "3 years",
+        "level": "4 years",
         "keywords": [
+            "Terraform",
+            "Puppet",
             "Amazon Web Services",
             "AWS Elastic Beanstalk",
             "AWS Kinesis",
