@@ -1,11 +1,11 @@
 {
     "basics": {
         "name": "Jaakko Ojalehto",
-        "label": "Full Stack JavaScript Developer",
+        "label": "Full Stack Developer",
         "picture": "https://lh5.googleusercontent.com/dlgpqi6bNY64vIhRGfhIJYXIPbzll7gsZnVyROhtRhcJ8rP_ZsMGIOMZKw8zCv68dIvxFCRsSew=w1896-h859",
-        "email": "jaakko@ojalehto.fi",
+        "email": "jaakko.ojalehto@8-bit-sheep.com",
         "phone": "+358 456 321 117",
-        "summary": "I am a full stack JavaScript developer. I have over ten years of experience in HTML, CSS and other web technologies. For the past 4 years i have developed multiple web applications using Node.js, AngularJS, React, React Native, MongoDB, PostgreSQL using AWS.",
+        "summary": "I am a full stack JavaScript developer with over ten years of experience in HTML, CSS and other web technologies. For the past 4 years i have developed multiple web applications using Node.js, AngularJS, React, React Native, MongoDB, PostgreSQL using AWS. I am passionate about using test automation, code coverage, code linting, code reviews and other tools to build high quality & high performance applications that are easy to maintain and develop further.",
         "location": {
             "countryCode": "FI"
         },
@@ -22,10 +22,20 @@
         }]
     },
     "work": [{
+        "company": "8-bit-sheep",
+        "position": "Full Stack Developer",
+        "website": "http://8-bit-sheep.com",
+        "startDate": "2018-04-01",
+        "highlights": [
+            "Developed a new universal cross-platform user interface for Yle Tunnus.",
+            "Developed a Counter-Strike: Global Offensive statistics application used in Yle TV2 Broadcast and Assembly Summer main stage."
+        ]
+    }, {
         "company": "Finnish Broadcasting Company (Yle)",
         "position": "Web Developer",
         "website": "http://yle.fi",
         "startDate": "2013-08-01",
+        "endDate": "2018-04-01",
         "highlights": [
             "Developed the yle.fi frontpage, mobile application and the inhouse layout management tool that the editors use to edit the page.",
             "Developed an inhouse web analytics dashboard used by the journalists, editors and the top management.",
@@ -89,7 +99,7 @@
         "summary": "Co-Founded and Co-Captained the most victorious Natural Selection 2 team of 2012 and 2013",
         "highlights": [
             "Organized day to day activities such as training and practice matches.",
-            "Participated in taking care of team politics such as recruiting.",
+            "Participated in recruiting, team building, etc.",
             "Won the ESL NS2 Launch Tournament with LAN finals played in the ESL Studio in Cologne, Germany."
         ]
     }],
